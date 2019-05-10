@@ -5,6 +5,8 @@ public class HelloTest {
 		// TODO Auto-generated method stub
 		System.out.println("setaerae");
 		System.out.println("add line of code");
+		System.out.println("branch 2");
+		System.out.println("new commit branch 2");
 	}
 
 }
