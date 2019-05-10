@@ -7,6 +7,8 @@ public class HelloTest {
 		System.out.println("add line of code");
 		System.out.println("new branch");
 		System.out.println("new cmmit branch 1");
+		System.out.println("branch 2");
+		System.out.println("new commit branch 2");
 	}
 
 }
